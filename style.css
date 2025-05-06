@@ -145,13 +145,12 @@ button{
 .list{
     width: 100%;
     margin-left: 10px;
-    background-color: lightgray;
+    text-align:center;
 }
 .list li{
     text-decoration: underline;
     text-align: left;
     list-style: none;
-    background-color: lightgray;
 }
 .row{
     width: 80%;
